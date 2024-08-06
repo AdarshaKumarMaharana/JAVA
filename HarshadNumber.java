@@ -5,7 +5,7 @@ public class HarshadNumber
 {
     public static void main(String args[])
     {
-//      Taking the number as input from the user using scanner class
+//      Taking the number from the user
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number :: ");
         int num = sc.nextInt();
